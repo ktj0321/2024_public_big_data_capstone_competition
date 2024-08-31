@@ -12,9 +12,7 @@
 복용 시 주의사항을 함께 표시해주는 기능을 가지고 있습니다.
 
 또한, 해당 의약품을 구매할 수 있는 주변 약국과, 해당 의약품의 평균가를 화면에 표시해줌으로써,  
-헛걸음하는 일 없이, 합리적인 구매를 하는 데에 도움을 주는 것이 목표입니다.
-
-해당 아이디어를 제시하고, 자료를 수집했으며, 발표자료를 제작하여 출품하였습니다.
+헛걸음하는 일 없이, 합리적인 구매를 하는 데에 도움을 주는 것이 목표인 아이디어입니다.
 
 ![1725087496504](https://github.com/user-attachments/assets/4654bec0-dcac-4211-9090-31052a5fe5b4)
 ![1725087498007](https://github.com/user-attachments/assets/17453b1b-e513-4502-b292-cf01f51134dd)
@@ -31,3 +29,5 @@
 ![1725087509450](https://github.com/user-attachments/assets/ca0e57b2-96c3-452b-aa54-277904837bf6)
 ![1725087510468](https://github.com/user-attachments/assets/5b6f9d6b-1085-47e0-89a4-21a963eb59ba)
 ![1725088628602](https://github.com/user-attachments/assets/d712ef6d-a949-4b0c-89ec-4d6e79275fa7)
+
+해당 아이디어를 제시하고, 자료를 수집했으며, 발표자료를 제작하여 팀원들과 함께 출품하였습니다.
